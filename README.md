@@ -20,7 +20,7 @@ like [0.1, 0.1, 0.05, 0.1, 9.5, 0.1, 0.05, 0.05, 0.05], it saves you from fishin
 and turns it into [0,0,0,0,1,0,0,0,0] -- The goal is to save a lot of coding!
 
 
-#Training the neural network
+# Training the neural network
 
 Once it's done training -- we should see an accuracy value at the end of the final epoch. It might look something like
 0.9098. This tells us that our neural network is about 91% accurate in classifying the training data. i.e, 
