@@ -4,8 +4,8 @@
  trained from a dataset containing 10 different types.
 
 # Model Layers of our Neural Network
- 
-Sequential: Defines a SEQUENCE of layers in the neural network
+
+Sequential:  Defines a SEQUENCE of layers in the neural network
 
 Flatten: Flatten just takes that square of images and turns it into a 1 dimensional set.
 
