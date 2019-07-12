@@ -25,3 +25,17 @@ and turns it into [0,0,0,0,1,0,0,0,0] -- The goal is to save a lot of coding!
 Once it's done training -- we should see an accuracy value at the end of the final epoch. It might look something like
 0.9098. This tells us that our neural network is about 91% accurate in classifying the training data. i.e, 
 it figured out a pattern match between the image and the labels that worked 91% of the time
+
+
+![](/imgs/image1.png)
+
+
+![](/imgs/image2.png)
+
+
+![](/imgs/image3.png)
+
+
+![](/imgs/image4.png)
+
+
